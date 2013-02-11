@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[trapezoid.jp]]></title>
   <link href="http://trapezoid.github.com/atom.xml" rel="self"/>
   <link href="http://trapezoid.github.com/"/>
-  <updated>2013-02-11T14:41:09+09:00</updated>
+  <updated>2013-02-11T14:45:09+09:00</updated>
   <id>http://trapezoid.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Haruto Otake]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
